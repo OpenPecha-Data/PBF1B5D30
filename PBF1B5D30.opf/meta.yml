@@ -1,0 +1,60 @@
+id: PBF1B5D30
+initial_creation_type: input
+source_metadata:
+  title: Mind Training (Lojong)
+  language: de
+  description: 'Texts on so-called mind training (blo sbyong), the system of practical
+    instructions for developing the compassion and wisdom of bodhicitta:'
+  volume:
+    dbabba1e2c2c40f3b81675361153d121:
+      title: Seven Points of Training the Mind According to the Great Vehicle
+      parent: Seven Points of Mind Training
+    fb8f2294ca1743e48202a5c95f172e44:
+      title: Commentary on the Seven Points
+      parent: Seven Points of Mind Training
+    0f27636061cf4fefa3450b9f1c919b34:
+      title: Notes on the Seven Points of Mind Training
+      parent: Seven Points of Mind Training
+    d71428573a5f4958989bf74d9db1a59a:
+      title: Ambrosia for the Mind
+      parent: Seven Points of Mind Training
+    557d97f19b3742249c95d3562181f126:
+      title: Eight Verses of Training the Mind
+      parent: Eight Verses of Training the Mind
+    d60ebf10ca0b4dcd98d8556504d4f808:
+      title: The Thirty-Seven Practices of All the Bodhisattvas
+      parent: Thirty-Seven Practices
+    ef4a52141aff441bba76ece4ed859624:
+      title: 'The Blissful Path to the Ocean of Bodhichitta: A Brief Prayer of Aspiration
+        for Mind Training'
+      parent: Aspiration Prayers
+    6fb8f5044d55477486313a556cfda52e:
+      title: 'The Excellent Path to Enlightenment: An Aspiration Towards the Mahāyāna
+        Mind Training'
+      parent: Aspiration Prayers
+    43ad973fe1724a5d998af70598bc72db:
+      title: 'The Finest Jewel: An Aspiration Prayer of Mahāyāna Mind Training'
+      parent: Aspiration Prayers
+    a2de07358a1c4d59b26892a120733dd1:
+      title: Aspiration to Generate Bodhicitta, Utterly Pure and Supreme
+      parent: Aspiration Prayers
+    cc51f5d7af584824b08f25258af5a7b0:
+      title: The Bodhisattva’s Garland of Jewels
+      parent: Lojong (general)
+    c3a36a51e8df477e9c938ae07ff5e991:
+      title: Turning Suffering & Happiness Into Enlightenment
+      parent: Lojong (general)
+    a52ddfa64c3c428394d1326a37a2d2cc:
+      title: The Sayings of Geshe Langri Tangpa
+      parent: Lojong (general)
+    1498b32902c544cf81a626bf816a51d6:
+      title: How to Transform Sickness and Other Circumstances
+      parent: Lojong (general)
+    6cb157cde82a48cebc6d2718c8c13876:
+      title: Thirty Pieces of Heart Advice
+      parent: Lojong (general)
+    1091183aa162421d83a190bac0ebd0a3:
+      title: Three Principal Aspects of the Path
+      parent: Lojong (general)
+created_at: '2022-03-01T04:44:49.388857'
+last_modified_at: '2022-03-01T04:44:49.388860'
